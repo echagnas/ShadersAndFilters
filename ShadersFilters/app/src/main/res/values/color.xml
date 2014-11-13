@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rainbow_red">#ff0000</color>
+    <color name="rainbow_yellow">#FFFF00</color>
+    <color name="rainbow_green">#7FDD4C</color>
+    <color name="rainbow_blue">#357AB7</color>
+    <color name="rainbow_purple">#9E0E40</color>
+
+
+
+</resources>
