@@ -4,9 +4,13 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.MotionEvent;
+import android.view.View;
+
+import com.manu.widget.PickThroughImageView;
 
 
-public class HomeActivity extends Activity {
+public class HomeActivity extends Activity{
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -33,4 +37,5 @@ public class HomeActivity extends Activity {
         }
         return super.onOptionsItemSelected(item);
     }
+
 }
